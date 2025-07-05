@@ -57,3 +57,7 @@ The dataset used is the SMS Spam Collection Dataset from Kaggle: [https://www.ka
 ## Future Improvements
 - Integrate with email APIs for real-time classification
 - Use deep learning models (e.g., LSTM or BERT)
+
+## UI Overview:
+![image](https://github.com/user-attachments/assets/353b50e1-3594-42a6-8695-73b7cc4f10ee)
+
